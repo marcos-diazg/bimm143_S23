@@ -93,15 +93,13 @@ To further support learning data analysis with the R environment we gratefully a
 ## Additional key resources  
 Key resources for students in this class include:  
 
-> - [Piazza]({{ site.data.authors.corelinks.piazza }}){:.no-push-state}{:target="_blank"}  our main Q&A forum.
+- [Piazza]({{ site.data.authors.corelinks.piazza }}){:.no-push-state}{:target="_blank"}  our main Q&A forum.
 
-> - [questionnaire]({{ site.data.authors.corelinks.questionnaire }}){:.no-push-state} 
+- [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"} for assignment and lab report submission and grading.
 
-> - [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"} for assignment and lab report submission and grading.
+- [GradeBook]({{ site.data.authors.corelinks.gradebook }}){:.no-push-state}{:target="_blank"}  check your assignment and lab scores to date.
 
-> - [GradeBook]({{ site.data.authors.corelinks.gradebook }}){:.no-push-state}{:target="_blank"}  check your assignment and lab scores to date.
-
-> - [Syllabus]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}{:target="_blank"}  PDF format guide to the course.
+- [Syllabus]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}{:target="_blank"}  PDF format guide to the course.
 
 
 Note that these are also linked to at the bottom of the navigation sidebar found on every page.   
