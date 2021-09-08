@@ -28,7 +28,10 @@ url:                 https://bioboot.github.io
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 #baseurl:             ''
-baseurl:             /bimm143_F21
+baseurl:             /bimm143_F21  ## !!!EDIT!!!
+
+# Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
+image:               /bimm143_F21/assets/img/dna.jpg  ## !!!EDIT!!!
 
 # A very short description of your page
 tagline:             An introductory hands-on course in Bioinformatics for Biology majors at UCSD.
@@ -43,11 +46,6 @@ author:
   name:              Barry Grant
   email:             bjgrant@ucsd.edu
 
-# Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
-image:               /bimm143_F21/assets/img/dna.jpg
-#image:               '{{ site.baseurl }}/assets/img/dna.jpg'
-#image:               'assets/img/dna.jpg'
-#image:               "{{'assets/img/dna.jpg' | relative_url }}"
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.

@@ -100,9 +100,8 @@ Key resources for students in this class include:
 - [GradeBook]({{ site.data.authors.corelinks.gradebook }}){:.no-push-state}{:target="_blank"}  check your assignment and lab scores to date.  
 
 - [Schedule]({{ site.baseurl }}/schedule/) complete listing of class related material.  
-  
+
 - [Syllabus]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}{:target="_blank"}  PDF format guide to the course.
 
 
 Note that these resources are also linked to at the bottom of the navigation sidebar found on every page via the Q&A, GradeScope, YouTube and email icons.   
-
