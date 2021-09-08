@@ -77,7 +77,7 @@ A detailed [syllabus]({{ site.baseurl }}/class-material/BIMM143_F21_syllabus.pdf
 
 ## Surveys:
 Please help us improve this course by completing by completing these surveys before and after the course. Thank you!
-* [Pre-course questionnaire](https://forms.gle/tB7MAUxeygB6UzqQ6){:target="_blank"}  
+* [Pre-course questionnaire]({{ site.data.authors.corelinks.questionnaire }}){:target="_blank"}  
 * [Post-course questionnaire]({{ site.baseurl }}/404/)  
 
 ## Acknowledgments:
@@ -88,4 +88,21 @@ In addition to working on personal laptops we will also be using remote supercom
 To further support learning data analysis with the R environment we gratefully acknowledge support from [DataCamp](https://www.datacamp.com/). DataCamp are providing our enrolled students with access to over 300 hours of data science videos and interactive coding challenges aimed at strengthening their data science skills.  
 
 [![datacamp]({{ site.baseurl }}/jetstream/images/DataCamp.png)](https://www.datacamp.com/){:.no-push-state}  
+
+
+## Additional key resources  
+Key resources for students in this class include:  
+
+> - [Piazza]({{ site.data.authors.corelinks.piazza }}){:.no-push-state}{:target="_blank"}  our main Q&A forum.
+
+> - [questionnaire]({{ site.data.authors.corelinks.questionnaire }}){:.no-push-state} 
+
+> - [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"} for assignment and lab report submission and grading.
+
+> - [GradeBook]({{ site.data.authors.corelinks.gradebook }}){:.no-push-state}{:target="_blank"}  check your assignment and lab scores to date.
+
+> - [Syllabus]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}{:target="_blank"}  PDF format guide to the course.
+
+
+Note that these are also linked to at the bottom of the navigation sidebar found on every page.   
 

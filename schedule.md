@@ -52,9 +52,9 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 **Supporting material:**  
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_F21_syllabus.pdf){:.no-push-state}{:target="_blank"},  
-- Pre-course [Questionnaire](https://forms.gle/Baivt9FYQEdk3a9g9){:target="_blank"},   
+- Pre-course [Questionnaire](https://forms.gle/tB7MAUxeygB6UzqQ6){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
-- Sign up for our [Piazza class Q&A site](https://forms.gle/tB7MAUxeygB6UzqQ6){:target="_blank"},     
+- Sign up for our [Piazza class Q&A site](https://piazza.com/class/kt1tvcficju67p){:target="_blank"},     
 - View the class [**GradeBook**](https://docs.google.com/spreadsheets/d/12UrK5BuyTkkiaOEFAzlTtEp9QfpqYglz_eXYjj5w9Fc/edit?usp=sharing){:target="_blank"}.  
 
 
