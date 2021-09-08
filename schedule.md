@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-All in-person hands-on sessions are Tu/Th 9:30-12:30 pm in TATA 2501. All supporting course content will be made available on this public facing website.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
+All in-person hands-on sessions are Tu/Th 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). All supporting course content will be made available on this public facing website.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
