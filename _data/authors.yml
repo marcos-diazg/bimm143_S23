@@ -98,6 +98,6 @@ corelinks:
   gradescope:     *gradescope 
   youtube:        *youtube 
   questionnaire:  https://forms.gle/tB7MAUxeygB6UzqQ6
-  gradebook:      somelink
+  gradebook:      https://docs.google.com/spreadsheets/d/12UrK5BuyTkkiaOEFAzlTtEp9QfpqYglz_eXYjj5w9Fc/edit?usp=sharing
 
 
