@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-All in-person hands-on sessions are Tu/Th 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). All supporting course content will be made available on this public facing website.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
+Course delivery for Fall 2021 will be a mix of in-person and online (a.k.a. hybrid). In-person *hands-on sessions* are Tu/Th 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). All online course components will be made available on a weekly basis via this public facing website.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab session" supporting walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
@@ -156,7 +156,7 @@ You may wish to consult the scoring rubric at the end of the above linked projec
  
 Your responses to questions Q1-Q4 are due **Monday Oct 25th** (10/25/21) at 12pm San Diego time.   
  
-The complete assignment, including responses to all questions, is due **Monday Nov 29th** (11/29/21). at 12pm San Diego time.  
+The complete assignment, including responses to all questions, is due **Monday Nov 29th** (11/29/21) at 12pm San Diego time.  
  
 In both instances your PDF format report should be submitted to GradeScope. Late responses will not be accepted under any circumstances.    
 
