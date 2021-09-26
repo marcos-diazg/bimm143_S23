@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule2
+title: Schedule
 menu: true
 order: 2
 ---
