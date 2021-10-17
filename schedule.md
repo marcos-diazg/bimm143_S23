@@ -341,11 +341,12 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture10-BIMM143_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture10-BIMM143_small.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on with Git](http://tinyurl.com/rclass-github){:.no-push-state}{:target="_blank"},  
 - Resource for going further: [Happy Git with R](https://happygitwithr.com/){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy-Point-Assesment](https://goo.gl/forms/gMxIBT5jLbjXHQPE2){:.no-push-state}.
+- Feedback: [Muddy-Point-Assessment](https://goo.gl/forms/gMxIBT5jLbjXHQPE2){:.no-push-state}.
 
 
 **Homework**:   
 - There is no specific homework for today's class beyond getting git setup on your computer and getting your class content to date on GitHub. **For bonus points post a link to your GitHub account homepage on Piazza**. 
+- Complete the DataCamp [Intermediate R](https://app.datacamp.com/learn/courses/intermediate-r){:.no-push-state}{:target="_blank"} course.  
 - Please note that your **project: Pt 1. Q1-Q4 is due today\!**
 
 
