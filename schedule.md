@@ -429,7 +429,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 ## 10: Halloween Candy Mini-Project
 **Topics**: A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
 
-- Lab Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/Halloween_candy.html){:.no-push-state}{:target="_blank"}
+- Lab Mini-Project: [Exploratory analysis of Halloween candy]({{ site.baseurl }}/class-material/Halloween_candy.html){:.no-push-state}{:target="_blank"}
 
 
 
