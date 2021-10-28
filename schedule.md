@@ -426,7 +426,18 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 ---
 <a name="10"></a> 
 
-## 10: Structural Bioinformatics    
+## 10: Halloween Candy Mini-Project
+**Topics**: A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
+
+- Lab Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/Halloween_candy.html){:.no-push-state}{:target="_blank"}
+
+
+
+---
+<a name="11"></a>
+
+
+## 11: Structural Bioinformatics    
 **Topics**: Protein structure function relationships, Protein structure and visualization resources, Modeling energy as a function of structure, Homology modeling, Predicting functional dynamics, Inferring protein function from structure.
 
 **Goal**: 
@@ -455,10 +466,10 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 ---
-<a name="11"></a>
+<a name="30"></a>
 
 
-## 11: Bioinformatics in drug discovery and design 
+## CUT: Bioinformatics in drug discovery and design 
 **Topics**: The traditional path to drug discovery; High throughput screening  approaches; Computational receptor/target-based bioinformatics approaches; Computational ligand/drug-based bioinformatics approaches; Small molecule docking methods; Prediction and analysis of biomolecular dynamics, conformational variants and functional dynamics; Molecular simulation and drug optimization.
 
 **Goals**:    
