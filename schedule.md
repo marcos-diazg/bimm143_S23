@@ -24,8 +24,8 @@ Course delivery for Fall 2021 will be a mix of in-person and online (a.k.a. blen
 | 8  | Thu 10/21/21 | [**Introduction to machine learning for Bioinformatics 1**](#8) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                            |
 | 9  | Tue 10/26/21 | [**Unsupervised learning mini-project**](#9) <br> Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets                                                                                                                                                                                                            |
 | 10 | Thu 10/28/21 | [**Halloween Candy Mini-Project**](#10) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                                                                                                                                    |
-| 11 | Tue 11/02/21  | [**Structural Bioinformatics (Part 1)**](#11) <br> Protein structure function relationships, Protein structure and visualization resources, Comparative analysis of protein sequence and structure. Modeling energy as a function of structure.                                                                                                                                                                                                                                                                                     |
-| 12 | Thu 11/04/21 | [**Structural Bioinformatics (Part 2)**](#12) <br> Structure prediction, AlphaFold2 and the new age of structural biology. Small molecule docking methods, Protein motion and conformational variants, Molecular simulation and drug optimization                                                                                                                                                                                                                                            |
+| 11 | Tue 11/02/21  | [**Structural Bioinformatics (Part 1)**](#11) <br> Protein structure function relationships, Protein structure and visualization resources, Modeling energy as a function of structure, Working with sequence and structure data in R.                                                                                                                                                                                                                                                                                     |
+| 12 | Thu 11/04/21 | [**Structural Bioinformatics (Part 2)**](#12) <br> Comparative structure and sequence analysis. The importance of Multiple Sequence Alignments (MSAs). Structure prediction with AlphaFold2 and the new age of structural biology. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
 | 13  | Tue 11/09/21 | [**Essential UNIX for bioinformatics (Part 1)**](#13) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 14  | Thu 11/11/21 | **Veterans Day** <br> No class today.                                                                                                                                                                                                                                              |
 | 15  | Tue 11/16/21 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#15) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.                                                                                                                                                                                                                                               |
@@ -550,14 +550,6 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 ## 14: Veterans Day - no class today.
 
 
-**Extra Credit Opportunity**:  
-- [Data wrangling in R the tidy way]({{ site.baseurl }}/class-material/extracredit/Tidy_mini_project_part_1.html){:.no-push-state}{:target="_blank"},  
-- [Introduction to Nanopore direct RNA sequencing (PPT format)]({{ site.baseurl }}/class-material/extracredit/Nanopore_sequencing.pptx){:.no-push-state}{:target="_blank"},  
-- Data files: [dictionary.tsv]({{ site.baseurl }}/class-material/extracredit/dictionary.tsv){:.no-push-state}{:target="_blank"}, [polya_results_with_ERCC.tsv]({{ site.baseurl }}/class-material/extracredit/polya_results_with_ERCC.tsv){:.no-push-state}{:target="_blank"}.   
-- [**Extra credit assignment**]({{ site.baseurl }}/class-material/extracredit/Extra_credit_part1.pdf){:.no-push-state}{:target="_blank"} and required [coveragebyzip_od.csv]({{ site.baseurl }}/class-material/extracredit/coveragebyzip_od.csv){:.no-push-state}{:target="_blank"}.  
-
-
-
 ---
 <a name="15"></a>
 ## 15: Transcriptomics and the analysis of RNA-Seq data
@@ -670,7 +662,7 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 
 
 
-Student topic of choice to be selected from those below:
+Or student topic of choice to be selected from those below:
 
 - Biological network analysis
 - Cancer genomics
