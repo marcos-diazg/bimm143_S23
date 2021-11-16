@@ -575,7 +575,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-small.pdf){:.no-push-state}{:target="_blank"}.
 - Detailed [Bioconductor setup]({{ site.baseurl }}//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/class15_lab_bimm143.html){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/Class15.html){:.no-push-state}{:target="_blank"},  
 - Lab: Live screencast [video walk-through](https://youtu.be/HnT1YL_KxQk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
 - Data files: [airway_scaledcounts.csv]({{ site.baseurl }}/class-material/airway_scaledcounts.csv){:.no-push-state}, [airway_metadata.csv]({{ site.baseurl }}/class-material/airway_metadata.csv){:.no-push-state}.  
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
