@@ -612,7 +612,7 @@ Differential expression analysis project with DESeq2 followed by gene enrichment
 **Topics:** 
 A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for exploratory data analysis.  
 
-- Lab: [COVID-19 vaccination rates mini-project]({{ site.baseurl }}/class-material/vaccines/vaccines.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
+- Lab: [COVID-19 vaccination rates mini-project]({{ site.baseurl }}/class-material/vaccines.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
 - Data files: [Statewide COVID-19 Vaccines Administered by ZIP Code](https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code){:.no-push-state}{:target="_blank"}, 
 
 
