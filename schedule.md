@@ -676,6 +676,11 @@ Making a public facing GitHub pages portfolio of your bioinformatics work. Proje
 - 20.2 [**Live stream interview**](https://youtu.be/UFYeovcGcwY){:.no-push-state}{:target="_blank"} with leading bioinformatics and genomics scientists from industry including **Dr Ali Crawford** (Associate Director, Scientific Research, *Illumina Inc.*), **Dr. Bjoern Peters** (Full Professor and Principal Investigator, *La Jolla Institute*) and **Dr. Ana Grant** (Director of Research Informatics, *Synthetic Genomics Inc.*).
 
 
+**Supporting material:**
+
+- Ether-pad: [**Feedback**](https://board.net/p/bimm143_f21){:.no-push-state}{:target="_blank"} 
+- DataCamp: [Bioinformatics Extension Track](https://bioboot.github.io/bimm143_W20/class-material/datacamp_extras.pdf){:.no-push-state}{:target="_blank"} 
+
 
 Or student topic of choice to be selected from those below:
 
