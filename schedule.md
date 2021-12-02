@@ -678,6 +678,7 @@ Making a public facing GitHub pages portfolio of your bioinformatics work. Proje
 
 **Supporting material:**
 
+- Slides: [Large PDF]({{ site.baseurl }}/class-material/class20_F21.pdf){:.no-push-state}{:target="_blank"},  
 - Ether-pad: [**Feedback**](https://board.net/p/bimm143_f21){:.no-push-state}{:target="_blank"} 
 - DataCamp: [Bioinformatics Extension Track](https://bioboot.github.io/bimm143_W20/class-material/datacamp_extras.pdf){:.no-push-state}{:target="_blank"} 
 
