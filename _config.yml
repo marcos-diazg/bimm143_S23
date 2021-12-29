@@ -31,7 +31,7 @@ url:                 https://bioboot.github.io
 baseurl:             /bimm143_W22  ## !!!EDIT!!!
 
 # Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
-image:               /bimm143_F22/assets/img/dna.jpg  ## !!!EDIT!!!
+image:               /bimm143_W22/assets/img/dna.jpg  ## !!!EDIT!!!
 
 # A very short description of your page
 tagline:             An introductory hands-on course in Bioinformatics for Biology majors at UCSD.
