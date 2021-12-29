@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BIMM 143, Fall 2021)
+title: Bioinformatics <br> (BIMM 143, Winter 2022)
 selected_projects:
   - _projects/welcome-screencast.md
   - _projects/using-jetstream-for-bioinformatics.md
@@ -60,7 +60,7 @@ We are committed to making this course accessible to everybody. Please contact P
 To fully participate in this course students will be expected to use their own computers with specific freely available [software installed]({{ site.baseurl }}/setup/).    
 
 ## Schedule:  
-**N.B.** For the Fall 2021 quarter, BIMM-143 will be offered **in-person** on Tuesday and Thursday at 9:30 - 12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}).  Additional video lectures, screencast lab review sessions and supporting material will be available via this website on a weekly basis throughout the quarter.  A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
+**N.B.** For the Winter 2022 quarter, BIMM-143 will be offered **online** for the first 3 weeks and then **in-person** on Tuesday and Thursday at 9:30 - 12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}).  Additional video lectures, screencast lab review sessions and supporting material will be available via this website on a weekly basis throughout the quarter.  A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
 All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza]({{site.data.authors.corelinks.piazza}}){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email (<bjgrant@ucsd.edu>).  

@@ -21,7 +21,7 @@ A total of 35% of the course grade will be assigned based on the“find-a-gene p
 
 
 ## Final Exam:  
-There will be NO final exam for the Fall 2021 quarter.   
+There will be NO final exam for the Winter 2022 quarter.   
 
 
 
@@ -31,7 +31,7 @@ Course Director
 : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: [bjgrant@ucsd.edu](mailto:bjgrant@ucsd.edu))
 
 Course Syllabus
-: [Fall 2021 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
+: [Winter 2022 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
 {:.message}
 
  
