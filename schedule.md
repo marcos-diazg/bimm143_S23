@@ -279,7 +279,6 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - [Questions](https://forms.gle/A3dt6iw7BJK4egfLA){:.no-push-state}{:target="_blank"},  
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).    
-- **NEW**: Join our [Tuesday coding club meetup](https://ucsd.zoom.us/j/96170631048?pwd=N2VsWWhMcEYzUUk0ZStETExZU3dZdz09){:.no-push-state}{:target="_blank"} at 10am SD time.
 - SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.  
 - Check-out the new website: [Data-to-Viz](https://www.data-to-viz.com/){:.no-push-state}{:target="_blank"} and [ggplot cheat sheat](https://www.rstudio.com/resources/cheatsheets/){:.no-push-state}{:target="_blank"}.  
 
@@ -317,9 +316,9 @@ The why, when and how of writing your own R functions with worked examples. Furt
  
 **Homework**:   
 - [Questions](https://forms.gle/EVetXGwRVtkXX9oGA){:.no-push-state}{:target="_blank"},  
-- **Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_F20.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.    
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
-- DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
+- ~~**Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_F20.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.~~ No longer required due to in-person transition week chaos.     
+- **DataCamp**: Please work toward completing any outstanding courses including [Intro to R](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"}, [Intro to ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} and [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"}.   
 
 
 **Other**:  
