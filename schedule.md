@@ -30,7 +30,7 @@ Clicking on the topics below will take you to corresponding video lectures, hand
 | 12  |  Thu 02/24/22 | [**RNA-Seq mini project**](#12) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                                                                                  |
 | 13  | Tue 03/01/22 | [**Hands-on with Git and GitHub**](#13) <br> Why you should use a version control system, How to perform common operations with the Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                                                                                                                                                                                          |
 | 14  | Thu 03/03/22  | [**Vaccination rate mini project**](#14) <br> *To Update.* A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for the exploratory analysis.                                                                                                                                                                                                                                      |
-| 15  | Tue 03/08/22  | [**Essential UNIX for bioinformatics (Part 1)**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
+| 15  | Tue 03/08/22  | [**Essential UNIX for bioinformatics**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 16 | Thu 03/10/22 | [**Portfolio building and discussion of bioinformatics in industry**](#16) <br> Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
@@ -411,8 +411,11 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 - Appreciate how AlphaFold has advanced structural bioinformatics,  
 - Be able to use the Bio3D package for exploratory analysis of protein  sequence-structure-function-dynamics relationships.    
 
-**Videos:**
-- 9.1 - [The story of AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4){:.no-push-state}{:target="_blank"},  
+**Videos:**- 9.1 - [Introduction to structural bioinformatics](https://www.youtube.com/watch?v=lLLXkdTl8aQ){:.no-push-state}{:target="_blank"},
+- 9.2 - [Visualization, interpretation and modeling of protein structure](https://www.youtube.com/watch?v=8GO9kUOPfMQ){:.no-push-state}{:target="_blank"},
+
+- 9.3 - [The story of AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4){:.no-push-state}{:target="_blank"},  
+
 
 
 **Material**:  
