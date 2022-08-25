@@ -28,10 +28,10 @@ url:                 https://bioboot.github.io
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 #baseurl:             ''
-baseurl:             /bimm143_S22  ## !!!EDIT!!!
+baseurl:             /bimm143_F22  ## !!!EDIT!!!
 
 # Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
-image:               /bimm143_S22/assets/img/dna.jpg  ## !!!EDIT!!!
+image:               /bimm143_F22/assets/img/dna.jpg  ## !!!EDIT!!!
 
 # A very short description of your page
 tagline:             An introductory hands-on course in Bioinformatics for Biology majors at UCSD.
