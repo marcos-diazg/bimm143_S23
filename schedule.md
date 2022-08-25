@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-Course delivery for Fall 2022 will be **in-person** meeting twice a week on Tu/Th 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Supporting online course components will be made available on a weekly basis via this public facing website.  
+For Fall 2022 class will meet twice a week on Tu/Th 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Supporting online course components will be made available on a weekly basis via this public facing website.  
 
 Clicking on the topics below will take you to corresponding video lectures, hands-on "lab session" supporting walk-through screencasts, required reading material and homework assignments.
 
@@ -33,10 +33,9 @@ Clicking on the topics below will take you to corresponding video lectures, hand
 | 15  | Tue 11/15/22  | [**Essential UNIX for bioinformatics**](#13) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 16  | Thu 11/17/22  | [**Hands-on with Git and GitHub**](#14) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                                                                                                                                                                                      |
 | 17  | Tue 11/22/22  | [**Vaccination rate mini project**](#14) <br> A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for the exploratory analysis.                                                                                                                                                                                                                                      |
-| 18  | Thu 11/24/22  | **Thanksgiving Holiday** <br> No class today.                                                                                                                                   |
-
+| 18  | Thu 11/24/22  | **Thanksgiving Holiday** <br> No class today.                                                                                               |
 | 19  | Tue 11/29/22  | [**Investigating pertussis resurgence mini project**](#15) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
-| 20 | Thu 12/01/22 | [**Portfolio building and discussion of bioinformatics in industry**](#16) <br> Hands-on with Git and GitHub, Why you should use a version control system, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
+| 20 | Thu 12/01/22 | [**Portfolio building and discussion of bioinformatics in industry**](#16) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
 
