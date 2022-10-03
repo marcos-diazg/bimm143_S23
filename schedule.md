@@ -194,9 +194,9 @@ Detecting remote sequence similarity, Substitution matrices, Database searching 
 **Material**:   
  
  - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture3-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture3-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},    
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-3_online_form.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab3.pdf){:.no-push-state}{:target="_blank"},  
 - Bonus: [Alignment App](https://bioboot.github.io/bimm143_W20/class-material/nw/){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy Point Assessment](https://forms.gle/Xz6PxjTzwwZe3erv6){:.no-push-state}{:target="_blank"}.   
+- Feedback: [Muddy Point Assessment](https://forms.gle/TxSZcAG29qv84DEc6){:.no-push-state}{:target="_blank"}.   
   
 
 
