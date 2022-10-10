@@ -272,7 +272,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/ggplot_play.html){:.no-push-state}{:target="_blank"},
+- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lab5.html){:.no-push-state}{:target="_blank"},
 - Lab: Live screencast [video walk-through](https://youtu.be/p9ap6X1V3mo){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/FJHD9Bnrmgj32Tk69){:.no-push-state}{:target="_blank"},  
