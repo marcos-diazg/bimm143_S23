@@ -356,9 +356,9 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 **Supporting material:**  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
 - WebApp: [Introduction to PCA]({{ site.baseurl }}/class-material/pca/){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-wk6.html){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab7.html){:.no-push-state}{:target="_blank"},  
 - Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state}, [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.  
-- Lab: Live screencast [video walk-through](https://youtu.be/SERsmSnwpnk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.
+- Lab: Live screencast [video walk-through](https://youtu.be/SERsmSnwpnk){:target="_blank"}{:.no-push-state}.
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 
 - Feedback: [Muddy point assessment](https://docs.google.com/forms/d/e/1FAIpQLSdiQn7n6XvvRGq5AfQWaRa7G22-twFCN4bYNANCWSK09DBYZg/viewform){:.no-push-state}.  
