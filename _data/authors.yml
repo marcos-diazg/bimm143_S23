@@ -13,15 +13,15 @@ barry:
 
     Instructional Assistants
     : Kelly Flanders (Email: <kflander@ucsd.edu>)
-    : Ray Huang (Email: <crhuang@health.ucsd.edu>)    
+    : Jiawei Xu (Email: <j7xu@ucsd.edu>)    
 
     Course Syllabus
-    : [Fall 2022 (PDF)](https://bioboot.github.io/bimm143_F22/class-material/BIMM143_F22_syllabus.pdf){:.no-push-state}
+    : [Winter 2023 (PDF)](https://bioboot.github.io/bimm143_W23/class-material/BIMM143_W23_syllabus.pdf){:.no-push-state}
     {:.message}
 
   # This photo will be used in the about section
   picture:
-    src:             /bimm143_F22/assets/img/logo.png
+    src:             /bimm143_W23/assets/img/logo.png
 #  N.B. You can not use liquid variables in data files :-( 
 #       so the below will not work
 ##    src:             '{{ site.baseurl }}/assets/img/logo.png'
@@ -94,7 +94,7 @@ ileena:
 #   a *piazza later in this ymal data file.
 #  TODO: uodate GRADEBOOK student and instructor link & OFICEHOUR
 corelinks:
-  syllabus:       &syllabus /class-material/BIMM143_F22_syllabus.pdf
+  syllabus:       &syllabus /class-material/BIMM143_W23_syllabus.pdf
   piazza:         *piazza 
   gradescope:     *gradescope 
   youtube:        *youtube 
