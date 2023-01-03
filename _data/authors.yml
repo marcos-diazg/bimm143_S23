@@ -37,8 +37,8 @@ barry:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    piazza:          &piazza https://piazza.com/class/l78hg0tabhu4wk
-    gradescope:      &gradescope https://www.gradescope.com/courses/429123    
+    piazza:          &piazza https://piazza.com/ucsd/winter2023/bimm143
+    gradescope:      &gradescope https://www.gradescope.com/courses/480976    
     youtube:         &youtube https://www.youtube.com/playlist?list=PLtYfizZe9rnrI-6BFsUqKTX7F2zebfCIQ
     email:           mailto:<bjgrant@ucsd.edu>
     #twitter:         barryjgrant
