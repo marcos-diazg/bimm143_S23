@@ -26,11 +26,11 @@ A total of 35% of the course grade will be assigned based on the“find-a-gene p
 There will be NO final exam for the Fall 2022 quarter.   
 
 ## Assignment due dates:
-A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/14NUMR59Mhh5vRbOmI26gBsIcGi6KkYhHact6DPK8aM0/edit?usp=sharing){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
+A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEAmV650IWw1rYJvdBOI2ryKDFIIbIo5TRqfuP2wx9U9QnMRXZX347HGouYhy6wfo9Kpga7MDfqkbD/pubhtml?gid=442644877&single=true){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
 
 
 <br>
-<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEITlnsTOgun6-X3GgE_0wnnbDckIOJAReYAXd4CypH5HYfUqf6xqKD_uR7-TI8VUfyjnhc2XG1kaA/pubhtml?gid=442644877&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
+<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEAmV650IWw1rYJvdBOI2ryKDFIIbIo5TRqfuP2wx9U9QnMRXZX347HGouYhy6wfo9Kpga7MDfqkbD/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
 
 Course Director
