@@ -203,7 +203,7 @@ Detecting remote sequence similarity, Substitution matrices, Database searching 
 
 **Homework**:   
 - [Questions](https://docs.google.com/document/d/1AjrDB-XdfZyJUZmA-_KEqkNB5P1iUrMkKyj8QjGRM50/copy){:.no-push-state}{:target="_blank"} click and select "make a copy" then follow instructions,   
-- **DataCamp**: Sign-up to our [**f22_bioinformatics** group/organization](https://app.datacamp.com/groups/f22_bioinformatics/dashboard){:.no-push-state}{:target="_blank"} via the link in your UCSD email and **start** (you do not have to finish yet) [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (we will complete this next week).  
+- **DataCamp**: Sign-up to our [**w23_bimm143** group/organization](https://app.datacamp.com/groups/w23_bimm143/dashboard){:.no-push-state}{:target="_blank"} via the link in your UCSD email and **start** (you do not have to finish yet) [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (we will complete this next week).  
 - [RStudio and R download and setup]({{ site.baseurl }}/setup/).  
 
 
@@ -241,7 +241,7 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 **Homework**:   
 - [Questions](https://forms.gle/JPXDU2ukB7DsiqUz8){:.no-push-state}{:target="_blank"},  
-- **DataCamp**: Sign-up to our **F21_Bioinformatics group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
+- **DataCamp**: Sign-up to our **w23_bimm143 group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
     
 
 
