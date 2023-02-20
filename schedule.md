@@ -27,7 +27,7 @@ For the Winter 2022 quarter we will meet twice a week on Tuesday and Thursday at
 | 11| Tue 02/14/23 | [**Genome informatics and high throughput sequencing**](#11) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                              |
 | 12  | Thu 02/16/23 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#12) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.                                                                                                                                                                                                                                               |
 | 13  |  Tue 02/21/23 | [**RNA-Seq mini project**](#13) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                                                                                  |
-| 14  | Thu 02/23/23  | **TBD.** <br> To be determined.                                                                                                                                                                                                                                      |
+| 14  | Thu 02/23/23  | [**Hands-on with Git and GitHub**](#14) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                              |
 | 15  | Tue 02/28/23  | [**Essential UNIX for bioinformatics**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 16  | Thu 03/02/23  | [**Hands-on with Git and GitHub**](#16) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                                                                                                                                                                                      |
 | 17  | Tue 03/07/23  | [**Vaccination rate mini project**](#17) <br> A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for the exploratory analysis.                                                                                                                                                                                                                                      |
@@ -545,7 +545,22 @@ Differential expression analysis project with DESeq2 followed by gene enrichment
 
 
 ---
-## 14: Veterans Day Holiday
+<a name="14"></a>
+## 14: Hands-on with Git and GitHub
+
+**Topics:** 
+Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover syncing your bioinformatics work to date to GitHub.     
+
+**Videos:**  
+- 14.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
+
+**Supporting material:**
+- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/slide_class16.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/github_lab.html){:.no-push-state}{:target="_blank"},  
+
+
+**Homework**:   
+To be updated.  
 
 ---
 <a name="15"></a>
@@ -594,20 +609,8 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 ---
 <a name="16"></a>
-## 16: Hands-on with Git and GitHub
-
-**Topics:** 
-Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover syncing your bioinformatics work to date to GitHub.     
-
-**Videos:**  
-- 16.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
-
-**Supporting material:**
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/slide_class16.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/github_lab.html){:.no-push-state}{:target="_blank"},  
-
-
-**Homework**:   
+## 16: TBD.
+  
 To be updated.  
 
 
@@ -625,7 +628,9 @@ A topical mini-project using ggplot and dplyr on with the latest state wide COVI
 
 ---
 <a name="18"></a>
-## 18: Thanksgiving Holiday 
+## 18: TBD.  
+
+To be updated.   
 
 
 ---
@@ -648,7 +653,7 @@ A topical mini-project using web-scraping, JSON based APIs and advanced dplyr an
 
 ---
 <a name="20"></a>
-## 20: Hands-on with Git & online portfolio completion plus bonus Bioinformatics in industry session
+## 20: GitHub pages online portfolio completion plus bonus Bioinformatics in industry session
 
 **Topics:** 
 Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover making a public facing GitHub pages portfolio of your bioinformatics work. Project assignment troubleshooting. Discussion of Bioinformatics and genomics career opportunities.     
