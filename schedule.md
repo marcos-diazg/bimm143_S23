@@ -560,7 +560,8 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 
 **Homework**:   
-To be updated.  
+Submit yoour GitHub class repository URL on GradeScope.  
+
 
 ---
 <a name="15"></a>
