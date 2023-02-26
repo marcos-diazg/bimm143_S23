@@ -23,15 +23,15 @@ title:               BIMM 143
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://bioboot.github.io
+url:                 https://marcos-diazg.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 #baseurl:             ''
-baseurl:             /bimm143_W23  ## !!!EDIT!!!
+baseurl:             /bimm143_S23  ## !!!EDIT!!!
 
 # Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
-image:               /bimm143_W23/assets/img/dna.jpg  ## !!!EDIT!!!
+image:               /bimm143_S23/assets/img/dna.jpg  ## !!!EDIT!!!
 
 # A very short description of your page
 tagline:             An introductory hands-on course in Bioinformatics for Biology majors at UCSD.
@@ -43,10 +43,10 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Barry Grant
-  email:             bjgrant@ucsd.edu
+  name:              Marcos Díaz-Gay
+  email:             mdiazgay@ucsd.edu
 
-color:               '#4f86aa'
+color:               '#d1a249'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
