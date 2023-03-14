@@ -7,7 +7,7 @@ order: 7
 
 You are encouraged to collaborate with your fellow students. However, all material submitted to the instructor must be your own work.  
 
-> *“Academic Integrity is expected of everyone at UC San Diego. This means that you must be honest, fair, responsible, respectful, and trustworthy in all of your actions. Lying, cheating or any other forms of dishonesty will not be tolerated because they undermine learning and the University’s ability to certify students’ knowledge and abilities.  Thus, any attempt to get, or help another get, a grade by cheating, lying or dishonesty will be reported to the Academic Integrity Office and will result sanctions.*  
+> *“Academic Integrity is expected of everyone at UC San Diego. This means that you must be honest, fair, responsible, respectful, and trustworthy in all of your actions. Lying, cheating or any other forms of dishonesty will not be tolerated because they undermine learning and the University’s ability to certify students’ knowledge and abilities. Thus, any attempt to get, or help another get, a grade by cheating, lying or dishonesty will be reported to the Academic Integrity Office and will result sanctions.*  
 > 
 > *Sanctions can include an F in this class and suspension or dismissal from the University. So, think carefully before you act. Before you act, ask yourself the following questions: a) is my action honest, fair, respectful, responsible & trustworthy and, b) is my action authorized by the instructor?  If you are unsure, don’t ask a friend—ask your instructor, instructional assistant, or the Academic Integrity Office”.*  
 
@@ -21,4 +21,4 @@ This Code of Conduct taken from <http://confcodeofconduct.com/>.
 
 
 ## Need help?
-You can reach the course director, Barry Grant, at <bjgrant@ucsd.edu>. You can also talk to any of the IAs if you need immediate help, or (in an emergency) call 911.
+You can reach the course instructor, Marcos Díaz-Gay, at <mdiazgay@ucsd.edu>. You can also talk to any of the IAs if you need immediate help, or (in an emergency) call 911.

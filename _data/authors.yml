@@ -1,22 +1,22 @@
 # The primary author of this site (i.e. Barry!).
 # Must be the same as `author` in `_config.yml`.
 # Change `barry` to your shortname (used in the front matter to set a page's author, e.g. `author: ileena`).
-barry:
-  name:              Barry Grant
-  email:             <bjgrant@ucsd.edu>
+marcos:
+  name:              Marcos Díaz-Gay
+  email:             <mdiazgay@ucsd.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-    Course Director
-    : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: <bjgrant@ucsd.edu>)
-
     Course Instructor
     : [Dr. Marcos Díaz-Gay](https://marcos-diazg.github.io/) (Email: <mdiazgay@ucsd.edu>)
 
     Instructional Assistants
     : Kelly Flanders (Email: <kflander@ucsd.edu>)
     : Jiawei Xu (Email: <j7xu@ucsd.edu>)    
+
+    Course Director
+    : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: <bjgrant@ucsd.edu>)
 
     Course Syllabus
     : [Winter 2023 (PDF)](https://bioboot.github.io/bimm143_W23/class-material/BIMM143_W23_syllabus.pdf){:.no-push-state}
@@ -40,10 +40,10 @@ barry:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    piazza:          &piazza https://piazza.com/ucsd/winter2023/bimm143
+    piazza:          &piazza https://piazza.com/ucsd/spring2023/bimm143b
     gradescope:      &gradescope https://www.gradescope.com/courses/480976    
     youtube:         &youtube https://www.youtube.com/playlist?list=PLtYfizZe9rnrI-6BFsUqKTX7F2zebfCIQ
-    email:           mailto:<bjgrant@ucsd.edu>
+    email:           mailto:<mdiazgay@ucsd.edu>
     #twitter:         barryjgrant
     #github:          bioboot
     # google:          <number>
@@ -78,17 +78,17 @@ barry:
     #rss:             https://bioboot.github.io/bimm143_S20/feed.xml
 
 # Another author
-ileena:
-  name:              Ileena Mitra
-  email:             <ileenamitra@eng.ucsd.edu>
-  about:             |
-    Ileena is a bioinformatics graduate student at UCSD.  
-  picture:           https://placehold.it/128x128
-  social:
-    github:          <username>
-    twitter:         <username>
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
-  color: '#268bd2'
+# ileena:
+#   name:              Ileena Mitra
+#   email:             <ileenamitra@eng.ucsd.edu>
+#   about:             |
+#     Ileena is a bioinformatics graduate student at UCSD.  
+#   picture:           https://placehold.it/128x128
+#   social:
+#     github:          <username>
+#     twitter:         <username>
+#   image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+#   color: '#268bd2'
 
 # - Corelinks
 #   Links to class resources that are linked to frequently such as piazza etc.
@@ -103,6 +103,6 @@ corelinks:
   youtube:        *youtube 
   questionnaire:  https://forms.gle/DNzf9GBG8VB2yZQu9
   gradebook:      https://docs.google.com/spreadsheets/d/1wWZdIr3A2eux0l-iCUMAU9Hj_tTt1S2J9EIaahCwYnE/edit?usp=sharing
-  officehours:    https://ucsd.zoom.us/j/97520924322?pwd=OWwycDlZakpFNU9uRjVqOGw2c0xqZz09#success
+  officehours:    https://ucsd.zoom.us/j/92563499659?pwd=K25WVWMzdUVUVVFnNnNJY3JNUmlZdz09
   officetime:     'Zoom on Thur @ 12:30pm'
 

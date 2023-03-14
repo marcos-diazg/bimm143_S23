@@ -10,7 +10,7 @@ more_projects: projects.md
 
 <br>
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+<div style="background-color: #fbe1c5 ; padding: 10px; border: 1px solid orange;">
   <b>COVID-19:</b>  At the time of writing we are still in a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning in a safe in-person environment, we expect and require your help. Keeping our classroom community healthy takes all of us following campus safety requirements. You are expected to follow University public health requirements and pursue personal protection practices to protect yourself and the others around you from infection. These include:<p>
 <ul>
 <li> <b>Participating in the university’s daily screening process</b>.
@@ -54,7 +54,7 @@ An integrated lecture/lab structure with hands-on exercises and small-scale proj
 Biology majors with upper division standing. A familiarity with basic biomedical concepts is essential (students should have successfully completed BILD1 and BILD4 or BIMM 101). No formal programming training or high level mathematical skills are required.  
 
 ## Accessibility:  
-We are committed to making this course accessible to everybody. Please contact Prof. Grant <bjgrant@ucsd.edu> if you have questions regarding content accessibility.  
+We are committed to making this course accessible to everybody. Please contact Dr. Díaz-Gay <mdiazgay@ucsd.edu> if you have questions regarding content accessibility.  
 
 ## Requirements: 
 To fully participate in this course students will be expected to use their own computers with specific freely available [software installed]({{ site.baseurl }}/setup/).    
@@ -63,7 +63,7 @@ To fully participate in this course students will be expected to use their own c
 **N.B.** For the Fall 2022 quarter, BIMM-143 will be offered **in-person only** on Tuesday and Thursday at 9:30 - 12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}).  Additional video lectures, screencast lab review sessions and supporting material will be available via this website on a weekly basis throughout the quarter.  A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
-All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza]({{site.data.authors.corelinks.piazza}}){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email (<bjgrant@ucsd.edu>).  
+All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza]({{site.data.authors.corelinks.piazza}}){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email (<mdiazgay@ucsd.edu>).  
 
 ## Office hours:  
 We will use [Zoom](https://ucsd.zoom.us/){:target="_blank"} on a weekly basis at a time to be determined from student polling. For now email me for a time and we will make it happen.

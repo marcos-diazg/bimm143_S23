@@ -33,8 +33,8 @@ A complete listing of class assignments along with anticipated due dates is [ava
 <iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEAmV650IWw1rYJvdBOI2ryKDFIIbIo5TRqfuP2wx9U9QnMRXZX347HGouYhy6wfo9Kpga7MDfqkbD/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
 
-Course Director
-: [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: [bjgrant@ucsd.edu](mailto:bjgrant@ucsd.edu))
+Course Instructor
+: [Dr. Marcos Díaz-Gay](https://marcos-diazg.github.io/) (Email: [mdiazgay@ucsd.edu](mailto:mdiazgay@ucsd.edu))
 
 Course Syllabus
 : [Winter 2023 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
