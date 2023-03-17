@@ -1,7 +1,7 @@
 ---
 layout: video
 title: How do we do Bioinformatics?
-date: 15 Aug 2017
+date: 19 Sep 2017
 screenshot:
    src: http://i3.ytimg.com/vi/cCim7LrQZLY/maxresdefault.jpg
 #  src: {{site.baseurl}}/assets/img/02_screenshot.png
@@ -10,9 +10,9 @@ screenshot:
 #    960w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,5x.jpg
 #    480w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,25x.jpg
 video: "https://www.youtube.com/embed/cCim7LrQZLY?rel=0"
-caption: A description of the computational setup for “Foundations of Bioinformatics” (BGGN-213).
+caption: A description of the computational setup for BIMM 143.
 description: >
-  A description of the computational setup for “Foundations of Bioinformatics” (BGGN-213).
+  A description of the computational setup for BIMM 143.
 links:
   - title: Download
     url: https://player.vimeo.com/video/234066823?s=151178510_1502823257_930cd93766f9b7a24ee19002da57b6a1&loc=external&context=Vimeo%5CController%5CClipController.main&download=1
@@ -31,9 +31,6 @@ UNIX is an operating system that is particularly well suited to working with bio
 In this course we will also introduce you to the R programing language and environment for data analysis and graphics. R is an extremely powerful tool useful for exploring and understand data in an open-ended, highly interactive, iterative way. Learning R will give you the freedom to experiment and problem solve during data analysis — exactly what we need as bioinformaticians and data scientists.
 
 To overcome bottleneck of limiting computing resources we can turn to high performance computing. In this course we will learn to use cloud-computing and the supercomputing resources offered by XSEDE to provide much faster processing speed, larger storage capacity, wider availability of resources and often unique computing capabilities.  
-
-
-
 
 
 

@@ -31,15 +31,15 @@ url:                 https://marcos-diazg.github.io
 baseurl:             /bimm143_S23  ## !!!EDIT!!!
 
 # Sidebar image and fallback color (note you can have a page specific sidebar image and color from yml)
-image:               /bimm143_S23/assets/img/dna.jpg  ## !!!EDIT!!!
+image:               /bimm143_S23/assets/img/dna.png  ## !!!EDIT!!!
 
 # A very short description of your page
-tagline:             An introductory hands-on course in Bioinformatics for Biology majors at UCSD.
+tagline:             Bioinformatics Lab
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  A hands-on introduction to the computer-based analysis of genomic and biomolecular data from the [School of Biological Sciences, UCSD](https://biology.ucsd.edu/).
+  A hands-on introduction to the computer-based analysis of genomic and biomolecular data for Biology majors from the [School of Biological Sciences, UCSD](https://biology.ucsd.edu/).
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:

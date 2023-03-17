@@ -1,7 +1,7 @@
 ---
 layout: video
 title: What is Bioinformatics?
-date: 15 Aug 2017
+date: 15 Sep 2017
 screenshot:
    src: http://i3.ytimg.com/vi/gJNXQfpErLY/maxresdefault.jpg
 #  src: {{site.baseurl}}/assets/img/02_screenshot.png
@@ -21,7 +21,10 @@ links:
 ---
 
 ## Notes:  
-This second screencast introduces bioinformatics, details major leaning goals & expectations of BGGN-213 and outlines the areas of bioinformatics covered in this course.
+This second screencast introduces bioinformatics, details major leaning goals & expectations of BIMM 143 and outlines the areas of bioinformatics covered in this course.
+
+
+
 
 ***
 
